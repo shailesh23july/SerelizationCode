@@ -16,7 +16,7 @@ public class MainExecution {
 
 	public static void main(String[] args) throws IOException, ClassNotFoundException {		
 		
-		ITEmployee itEmployee =new ITEmployee("AGCS", "Kunal");
+		ITEmployee itEmployee =new ITEmployee("AGCS", "Kunal Sehgal");
 		//Employee emp = new Employee("shailesh", "All205", "AD&M");
 		//itEmployee.setName("Shaileh");
 		System.out.println( "****************"+ itEmployee.getName() +"****************" );
