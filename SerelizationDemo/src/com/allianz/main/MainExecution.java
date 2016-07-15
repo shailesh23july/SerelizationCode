@@ -36,7 +36,7 @@ public class MainExecution {
 		    	    System.out.println("ITEmpolyee Name " + ((ITEmployee)obj).getName());
 		    	}
 		    	else
-		    		System.out.println("Empolyee name " + ((Employee)obj).getName());
+		    		 System.out.println("Empolyee name " + ((Employee)obj).getName());
 		    	
 		    }
 		    
